@@ -12,25 +12,8 @@ fun main(args: Array<String>) {
     // Here training dataset goes through training
     // process five times.
     for (i in 0 until 5) {
-
-        // Just graphic visualization of training progress. It shows loading bar
-        // in console.
-        var rowNumber = 0
-        var loadingPercent = 0
-        val loading = mutableListOf<Char>(' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ',
-            ' ', ' ')
-        println(loading.toString().replace(",", ""))
-
         csvReader().open("src/main/resources/train.csv") {
             readAllAsSequence().forEach { row: List<String> ->
-
-                // Progressing loading bar
-                rowNumber++
-                if (rowNumber % 5000 == 0) {
-                    loading[loadingPercent] = '='
-                    loadingPercent++
-                    println(loading.toString().replace(",", ""))
-                }
 
                 val inputs = mutableListOf<Double>()
                 val unprepInputs = row.drop(1)
