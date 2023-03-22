@@ -1,4 +1,4 @@
-package com.example.neuralnetlib
+package com.github.pustoslov.neuralnetlib
 
 import org.jetbrains.kotlinx.multik.api.linalg.dot
 import org.jetbrains.kotlinx.multik.api.mk
