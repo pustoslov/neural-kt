@@ -11,7 +11,7 @@ repositories {
 Add the dependency:
 ```
 dependencies {
-	        implementation 'com.github.pustoslov:neural-network:1.0'
+	        implementation 'com.github.pustoslov:neural-kt:1.0'
 	}
 ```
 ## For build.gradle.kts
@@ -26,7 +26,7 @@ repositories {
 Add the dependency:
 ```kts
 dependencies { 
-          implementation ("com.github.pustoslov:neural-network:1.0") 
+          implementation ("com.github.pustoslov:neural-kt:1.0") 
     }
 ```
 # How to use
