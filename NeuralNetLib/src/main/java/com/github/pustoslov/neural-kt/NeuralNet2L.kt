@@ -1,4 +1,4 @@
-package com.github.pustoslov.neuralnetlib
+package com.github.pustoslov.neural-kt
 
 import org.jetbrains.kotlinx.multik.api.linalg.dot
 import org.jetbrains.kotlinx.multik.api.mk
