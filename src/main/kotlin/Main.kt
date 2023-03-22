@@ -1,4 +1,4 @@
-import com.example.neuralnetlib.NeuralNet1L
+import com.github.pustoslov.neuralnetlib.NeuralNet1L
 import com.github.doyaaaaaken.kotlincsv.dsl.csvReader
 
 // Example of training neural network with one hidden layer on MNIST dataset.
