@@ -74,3 +74,6 @@ val myWeights = listOf(weightsInputToHidden, weightsHiddenToOutput)
 
 neuralNet.setWeights(myWeights)
 ```
+## License
+Copyright © 2023 [pustoslov](https://github.com/pustoslov).
+This project is licensed under [Apache 2.0](https://github.com/pustoslov/neural-kt/blob/main/LICENSE).
