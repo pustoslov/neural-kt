@@ -34,7 +34,7 @@ dependencies {
 |------|------|
 |NeuralNet1L| Neural network with one hidden layer|
 |NeuralNet2L| Neural network with two hidden layers|
-NeuralNel3L| Neural network with three hidden layers|
+NeuralNet3L| Neural network with three hidden layers|
 
 ### Create object:
 ```kt
