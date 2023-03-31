@@ -5,10 +5,10 @@ This project uses the kotlin-csv library (version 1.8.0) under the Apache 2.0 li
 Copyright (c) 2019 doyaaaaaken. 
 More information about kotlin-csv can be found at https://github.com/doyaaaaaken/kotlin-csv
 
-This project uses the multik-core library (version 0.2.1) under the Apachr 2.0 license.
+This project uses the multik-core library (version 0.2.1) under the Apache 2.0 license.
 Copyright (c) 2020-2022 JetBrains s.r.o.
 More information about multik-core can be found at https://github.com/Kotlin/multik
 
-This project uses the multik-default library (version 0.2.1) under the Apachr 2.0 license.
+This project uses the multik-default library (version 0.2.1) under the Apache 2.0 license.
 Copyright (c) 2020-2022 JetBrains s.r.o.
 More information about multik-default can be found at https://github.com/Kotlin/multik
